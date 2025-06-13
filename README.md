@@ -1,5 +1,12 @@
 # tauri
 
+安装
+
+~~~
+npm install -g @tauri-apps/cli
+npm install -g @tauri-apps/cli  
+~~~
+
  
 开发
 
