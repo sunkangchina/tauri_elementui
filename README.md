@@ -3,6 +3,7 @@
 安装
 
 ~~~
+cargo update
 npm install -g @tauri-apps/cli
 tauri --version
 ~~~
