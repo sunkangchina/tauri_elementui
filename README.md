@@ -4,7 +4,7 @@
 
 ~~~
 npm install -g @tauri-apps/cli
-npm install -g @tauri-apps/cli  
+tauri --version
 ~~~
 
  
